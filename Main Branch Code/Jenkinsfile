@@ -6,9 +6,9 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = "kastrov/multibranch-flask-app"
-        GIT_USER   = "kastrokiran"
-        GIT_EMAIL  = "learnwithkastro@gmail.com"
+        IMAGE_NAME = "pramod9901/multibranch-flask-app"
+        GIT_USER   = "Pramod-project"
+        GIT_EMAIL  = "pramu175@gmail.com"
     }
 
     stages {
